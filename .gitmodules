@@ -1,0 +1,3 @@
+[submodule "simple_application"]
+	path = simple_application
+	url = https://github.com/Priyanshu-Singh-git/simple_application.git
